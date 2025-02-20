@@ -221,7 +221,7 @@ button {
 
 .header_bg {
     background: #ffffff;
-    border-bottom: 1px solid #fc95c4;
+    border-bottom: 1px solid #2BAE66FF;
 }
 
 .bg-light {
@@ -244,12 +244,12 @@ button {
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show>.nav-link {
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 
 .navbar-brand {
@@ -270,7 +270,7 @@ button {
 }
 
 .login_bt a:hover {
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 
 .fa.fa-search.form-control-feedback {
@@ -280,7 +280,7 @@ button {
 
 .fa.fa-search.form-control-feedback:hover {
     font-size: 18px;
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 
 
@@ -320,7 +320,7 @@ button {
     float: left;
     padding: 8px 10px;
     color: #ffffff;
-    background-color: #fc95c4;
+    background-color: #2BAE66FF;
     text-align: center;
     font-size: 18px;
     border-radius: 5px;
@@ -350,7 +350,7 @@ button {
 }
 
 .carousel-indicators .active {
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 
 .carousel-indicators {
@@ -407,7 +407,7 @@ button {
     float: left;
     font-size: 16px;
     text-align: center;
-    background-color: #fc95c4;
+    background-color: #2BAE66FF;
     color: #ffffff;
     padding: 10px 0px;
     border-radius: 5px;
@@ -536,8 +536,8 @@ button {
     float: left;
     font-size: 16px;
     text-align: center;
-    border: 1px solid #fc95c4;
-    color: #fc95c4;
+    border: 1px solid #2BAE66FF;
+    color: #2BAE66FF;
     padding: 8px 0px;
     border-radius: 40px;
 }
@@ -560,7 +560,7 @@ button {
     float: left;
     font-size: 16px;
     text-align: center;
-    background-color: #fc95c4;
+    background-color: #2BAE66FF;
     color: #fefefd;
     padding: 10px 0px;
     border-radius: 5px;
@@ -736,7 +736,7 @@ button {
 #main_slider .carousel-control-next {
     width: 50px;
     height: 50px;
-    background-color: #fc95c4;
+    background-color: #2BAE66FF;
     opacity: 1;
     font-size: 30px;
     color: #ffffff;
@@ -826,7 +826,7 @@ textarea#comment::placeholder {
     color: #fefefd;
     font-size: 16px;
     padding: 10px 0px;
-    background-color: #fc95c4;
+    background-color: #2BAE66FF;
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
@@ -872,11 +872,11 @@ textarea#comment::placeholder {
 }
 
 .padding_left_10:hover {
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 
 .padding_left_10.active {
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 
 .footer_social_icon {
@@ -910,7 +910,7 @@ textarea#comment::placeholder {
 }
 
 .footer_social_icon li a:hover {
-    background-color: #fc95c4;
+    background-color: #2BAE66FF;
     color: #ffffff;
 }
 
@@ -967,7 +967,7 @@ textarea#comment.update_mail::placeholder {
     color: #ffffff;
     font-size: 16px;
     padding: 13px 0px 14px 0px;
-    background-color: #fc95c4;
+    background-color: #2BAE66FF;
     text-align: center;
     text-transform: uppercase;
 }
@@ -1006,7 +1006,7 @@ textarea#comment.update_mail::placeholder {
 }
 
 .copyright_text a:hover {
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 
 
@@ -1045,12 +1045,12 @@ textarea#comment.update_mail::placeholder {
     display: none;
 }
 header i {
-    color: #fc95c4;
+    color: #2BAE66FF;
     font-size: 32px;
     text-align: center;
 }
 header h2 {
-    color: #fc95c4;
+    color: #2BAE66FF;
     font-weight: 500;
     text-align: center;
 }
@@ -1058,7 +1058,7 @@ header h2 {
     text-align: center;
 }
 .data p a {
-    color: #fc95c4;
+    color: #2BAE66FF;
     text-decoration: none;
     text-align: center !important;
 }
@@ -1070,10 +1070,10 @@ header h2 {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #fc95c4;
+    border: 2px solid #2BAE66FF;
     color: #fff;
     padding: 8px 0;
-    background: #fc95c4;
+    background: #2BAE66FF;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.5s ease;
@@ -1082,14 +1082,14 @@ header h2 {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 #declineBtn {
     background-color: #fff;
-    color: #fc95c4;
+    color: #2BAE66FF;
 }
 #declineBtn:hover {
-    background-color: #fc95c4;
+    background-color: #2BAE66FF;
     color: #fff;
 }
 /* Footer Style */
